@@ -2,7 +2,7 @@
 
 🇧🇷 Born in **Brazil** <br />
 🇮🇪 Living in **Dublin, Ireland** <br />
-🚀 **Senior Database Engineer/Cloud Engineer** at [ID-Pal](https://id-pal.com) <br />
+🚀 **Senior Database Engineer/Cloud Database Engineer** at [ID-Pal](https://id-pal.com) <br />
 
 ### Find me elsewhere 🌎
 
