@@ -4,7 +4,7 @@
 🇮🇪 Living in **Dublin, Ireland** <br />
 🚀 **Senior Database Architect/Engineer** <br />
 
-- 🔭 I’m currently working on Database Automation proccess using Ansible/Terraform to deliver HA solution to Cloud infrastructure. <br />
+🔭 I’m currently working on Database Automation proccess using Ansible/Terraform to deliver HA solution to Cloud infrastructure. <br />
 
 📫 How to reach me: <br />
 
