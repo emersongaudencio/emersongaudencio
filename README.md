@@ -2,15 +2,16 @@
 
 🇧🇷 Born in **Brazil** <br />
 🇮🇪 Living in **Dublin, Ireland** <br />
-🚀 **Senior Database Engineer/Cloud Database Engineer** at [ID-Pal](https://id-pal.com) <br />
+🚀 **Senior Database Architect/Engineer** <br />
 
-### Find me elsewhere 🌎
+- 📫 How to reach me: 
 
 💼 [LinkedIn](https://www.linkedin.com/in/emersongaudencio/en) <br />
 💼 [AWS Certified](https://www.youracclaim.com/badges/b48ebda3-4225-4f76-be54-a3926532d713/linked_in_profile) <br />
 🚀 [Old Blog - Pt-br](http://blog.gaudencio.net.br) <br />
 
-💬 Ask me about ...
+- 💬 Ask me about:
+
 - MySQL/MySQL InnoDB Cluster
 - MariaDB/MariaDB ColumnStore/MariaDB Galera Cluster
 - PostgreSQL/Patroni/PostgreSQL Repmgr
@@ -33,7 +34,7 @@
 - AWS VPC
 - GCP VPC
 
-
+- 🔭 I’m currently working on Database Automation proccess using Ansible/Terraform to deliver HA solution to Cloud infrastructure.
 
 <!--
 **emersongaudencio/emersongaudencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
