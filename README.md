@@ -6,6 +6,12 @@
 
 🔭 I’m currently working on Database Automation approach using Ansible/Terraform to deliver HA solutions for Cloud infrastructure systems such as AWS/GCP/Azure. <br />
 
+<div align="center">
+  <a href="https://github.com/emersongaudencio">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emersongaudencio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersongaudencio&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 📫 How to reach me: <br />
 
 💼 [LinkedIn](https://www.linkedin.com/in/emersongaudencio/en) <br />
