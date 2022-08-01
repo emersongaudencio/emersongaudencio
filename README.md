@@ -4,7 +4,7 @@
 🇮🇪 Living in **Dublin, Ireland** <br />
 🚀 **Senior Database Architect/Engineer** <br />
 
-🔭 I’m currently working on Database Automation approach using Ansible/Terraform to deliver HA solutions for Cloud infrastructure systems such as AWS/GCP/Azure. <br />
+🔭 I’m currently working with Database Automation/Migration projects using Ansible/Terraform to deliver HA solutions for Cloud infrastructure systems such as AWS/GCP/Azure. <br />
 
 [![Emersongaudencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersongaudencio&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Emersongaudencio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersongaudencio&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
