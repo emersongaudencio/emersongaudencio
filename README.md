@@ -1,4 +1,4 @@
-### Heya, I'm Emerson Gaudencio! 👨🏻‍💻
+### Heya,Emerson Gaudencio here! 👨🏻‍💻
 
 🇧🇷 Born in **Brazil** <br />
 🇮🇪 Living in **Dublin, Ireland** <br />
