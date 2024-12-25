@@ -25,7 +25,7 @@
 - AWS RDS MySQL/MariaDB/PostgreSQL/Oracle
 - GCP CloudSQL MySQL/PostgreSQL
 - Azure MySQL/MariaDB/PostgreSQL
-- AWS DMS (Oracle to RedShift, MySQL to Redshift, Oracle to MariaDB, Oracle to MySQL, PosgreSQL to MariaDB, MySQL to PostgreSQL)
+- AWS DMS (Oracle to RedShift, MySQL to Redshift, PostgreSQL to Redshift, Oracle to MariaDB, Oracle to MySQL, PosgreSQL to MariaDB, MySQL to PostgreSQL)
 - Database Migration (Oracle to MariaDB, Oracle to MySQL, Oracle to PostgreSQL, PostgreSQL to MySQL, PostgreSQL to MariaDB, MySQL to PostgreSQL, MySQL to MariaDB)
 - Database Replication (MySQL to MySQL, MySQL to MariaDB, MariaDB to MySQL, PostgreSQL to MySQL, MySQL to PostgreSQL, Oracle to MySQL)
 - ClickHouse
@@ -33,10 +33,6 @@
 - Percona Monitoring and Management (PMM)
 - Ansible
 - Terraform
-- AWS S3 Bucket
-- GCS (Google Storage Bucket)
-- AWS VPC
-- GCP VPC
 
 <!--
 **emersongaudencio/emersongaudencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
